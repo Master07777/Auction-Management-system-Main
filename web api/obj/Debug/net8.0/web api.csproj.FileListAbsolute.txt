@@ -1,0 +1,32 @@
+C:\Auction Management System Main\web api\bin\Debug\net8.0\appsettings.Development.json
+C:\Auction Management System Main\web api\bin\Debug\net8.0\appsettings.json
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.staticwebassets.endpoints.json
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.exe
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.deps.json
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.runtimeconfig.json
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.dll
+C:\Auction Management System Main\web api\bin\Debug\net8.0\web api.pdb
+C:\Auction Management System Main\web api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Auction Management System Main\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Auction Management System Main\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Auction Management System Main\web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.csproj.AssemblyReference.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.AssemblyInfoInputs.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.AssemblyInfo.cs
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.csproj.CoreCompileInputs.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.MvcApplicationPartsAssemblyInfo.cs
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.MvcApplicationPartsAssemblyInfo.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.sourcelink.json
+C:\Auction Management System Main\web api\obj\Debug\net8.0\scopedcss\bundle\web api.styles.css
+C:\Auction Management System Main\web api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Auction Management System Main\web api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Auction Management System Main\web api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Auction Management System Main\web api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.csproj.Up2Date
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.dll
+C:\Auction Management System Main\web api\obj\Debug\net8.0\refint\web api.dll
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.pdb
+C:\Auction Management System Main\web api\obj\Debug\net8.0\web api.genruntimeconfig.cache
+C:\Auction Management System Main\web api\obj\Debug\net8.0\ref\web api.dll
