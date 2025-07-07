@@ -1,4 +1,7 @@
 
+using Factory.DatabaseLayer.Context;
+using Microsoft.EntityFrameworkCore;
+
 namespace web_api
 {
     public class Program
@@ -13,7 +16,8 @@ namespace web_api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddDbContext<OnlineAuctionDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("databaseConnectionString")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
