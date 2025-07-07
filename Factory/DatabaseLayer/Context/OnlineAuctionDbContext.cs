@@ -29,9 +29,7 @@ public partial class OnlineAuctionDbContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=LTIN485704\\SQLEXPRESS;Initial Catalog=OnlineAuctionSystem;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
-
+        => optionsBuilder.UseSqlServer("Data Source=LTIN605079;Initial Catalog=OnlineAuctionSystem;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Auction>(entity =>
@@ -76,6 +74,8 @@ public partial class OnlineAuctionDbContext : DbContext
         {
             entity.HasKey(e => e.ProductId).HasName("PK__Products__9834FBBA41087315");
 
+            entity.ToTable("Product");
+
             entity.Property(e => e.ProductId).HasColumnName("Product_Id");
             entity.Property(e => e.BasePrice)
                 .HasMaxLength(50)
@@ -104,6 +104,8 @@ public partial class OnlineAuctionDbContext : DbContext
         {
             entity.HasKey(e => e.ReviewId).HasName("PK__Reviews__F85DA78B77632963");
 
+            entity.ToTable("Review");
+
             entity.Property(e => e.ReviewId).HasColumnName("Review_Id");
             entity.Property(e => e.Comment)
                 .HasMaxLength(255)
@@ -120,6 +122,8 @@ public partial class OnlineAuctionDbContext : DbContext
         modelBuilder.Entity<Settlement>(entity =>
         {
             entity.HasKey(e => e.SettlementId).HasName("PK__Settleme__471489DD2A3F1A22");
+
+           
 
             entity.ToTable("Settlement");
 
@@ -146,6 +150,7 @@ public partial class OnlineAuctionDbContext : DbContext
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(e => e.UserId).HasName("PK__Users__206D917035690F8E");
+            entity.ToTable("User");
 
             entity.HasIndex(e => e.PhoneNumber, "UQ__Users__85FB4E3800D65BEF").IsUnique();
 

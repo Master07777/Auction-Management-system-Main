@@ -13,3 +13,18 @@ C:\Auction Management System Main\Factory\obj\Debug\net8.0\refint\Factory.dll
 C:\Auction Management System Main\Factory\obj\Debug\net8.0\Factory.pdb
 C:\Auction Management System Main\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
 C:\Auction Management System Main\Factory\obj\Debug\net8.0\ref\Factory.dll
+C:\Users\2417825\Auction-Management-system-Main\Factory\bin\Debug\net8.0\Factory.deps.json
+C:\Users\2417825\Auction-Management-system-Main\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+C:\Users\2417825\Auction-Management-system-Main\Factory\bin\Debug\net8.0\Factory.dll
+C:\Users\2417825\Auction-Management-system-Main\Factory\bin\Debug\net8.0\Factory.pdb
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.csproj.AssemblyReference.cache
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.sourcelink.json
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.dll
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\refint\Factory.dll
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.pdb
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+C:\Users\2417825\Auction-Management-system-Main\Factory\obj\Debug\net8.0\ref\Factory.dll
