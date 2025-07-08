@@ -46,7 +46,8 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Dto\\InputCategoryDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:38:23.379Z"
+              "WhenOpened": "2025-07-07T11:38:23.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +59,8 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Dto\\GetCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:38:12.975Z"
+              "WhenOpened": "2025-07-07T11:38:12.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,7 +85,8 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:36:23.663Z"
+              "WhenOpened": "2025-07-07T11:36:23.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
