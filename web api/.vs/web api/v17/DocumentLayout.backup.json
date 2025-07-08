@@ -46,8 +46,7 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Dto\\InputCategoryDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:38:23.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T11:38:23.379Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Dto\\GetCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:38:12.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T11:38:12.975Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\2417825\\Auction-Management-system-Main\\web api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-07T03:32:24.941Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "..\\Factory\\DatabaseLayer\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:36:23.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T11:36:23.663Z"
             },
             {
               "$type": "Document",
